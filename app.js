@@ -1,5 +1,5 @@
 const express = require("express");
-const mongoose = require("mongoose");
+
 const app = express();
 var request = require("request");
 app.set("view engine", "ejs");
